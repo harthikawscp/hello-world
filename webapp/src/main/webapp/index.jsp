@@ -4,6 +4,7 @@
 <h2> Round 2 Testing on 14:40 Sunday</h2>
 <h2> Round 2 Testing on Monday </h2>
 <h2> Round 2 K8 Testing Monday </h2>
+<h2> CI-CD Demo completed </h2>
 
 
 
