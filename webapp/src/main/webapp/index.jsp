@@ -2,6 +2,7 @@
 <h2>Checking to see if CI/CD is performed automatically</h2>
 <h2>Stay Focused</h2>
 <h2> Round 2 Testing on 14:40 Sunday</h2>
+<h2> Round 2 Testing on Monday </h2>
 
 
 
